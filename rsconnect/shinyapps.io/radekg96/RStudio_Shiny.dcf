@@ -1,0 +1,12 @@
+name: RStudio_Shiny
+title: RStudio_Shiny
+username:
+account: radekg96
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 315287
+bundleId: 1301960
+url: https://radekg96.shinyapps.io/RStudio_Shiny/
+when: 1522853507.05456
+asMultiple: FALSE
+asStatic: FALSE
